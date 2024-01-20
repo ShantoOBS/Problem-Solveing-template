@@ -1,0 +1,11 @@
+#include<bits/stdc++.h>
+using namespace std;
+#include<algorithm>
+
+#define mid(s,e) ((s+e)/2)
+
+using namespace std;
+int main()
+{
+  
+}
