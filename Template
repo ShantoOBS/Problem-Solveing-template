@@ -2,10 +2,27 @@
 using namespace std;
 #include<algorithm>
 
-#define mid(s,e) ((s+e)/2)
+typedef unsigned long long ull;
+typedef double long  dll;
+typedef long long ll;
 
-using namespace std;
+#define MOD 1000000007
+#define mid(s,e) ((s+e)/2)
+#define fori(n) for(int i=0;i<(n);i++)
+#define forl(n) for(long long i=0;i<(n);i++)
+
+
+void solve(){
+    
+  
+    
+}
 int main()
 {
+    ll n;
+    cin>>n;
+    forl(n)
+        solve();
+    
   
 }
