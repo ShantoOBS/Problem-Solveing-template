@@ -1,28 +1,36 @@
 #include<bits/stdc++.h>
 using namespace std;
 #include<algorithm>
-
+ 
 typedef unsigned long long ull;
 typedef double long  dll;
 typedef long long ll;
-
+typedef vector<int> vi;
+typedef vector<ll> vl;
+ 
 #define MOD 1000000007
+#define LINF (1LL<<60)
+#define INF 2147483647
+#define PI 3.1415926535897932384626433
+#define ll long long
+#define pii pair<int,int>
+#define mp(x,y) make_pair((x),(y))
 #define mid(s,e) ((s+e)/2)
 #define fori(n) for(int i=0;i<(n);i++)
 #define forl(n) for(long long i=0;i<(n);i++)
-
-ll gcd(ll a,ll b){ return _gcd(a,b); }
+ 
+ 
+ll gcd ( ll a, ll b ) { return __gcd ( a, b ); }
 ll lcd(ll a,ll b){return (a*(b/gcd(a,b)));} 
-
-
-
+ 
+ 
+ 
 void solve(){
-   
-   
-  
     
+  
 }
 int main()
 {
+    
   
 }
