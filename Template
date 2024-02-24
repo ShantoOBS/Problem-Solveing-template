@@ -1,17 +1,10 @@
+
+
+// Krishna Consciousness 
+
+
 #include<bits/stdc++.h>
 #include<algorithm>
-#include <iostream>
-#include <vector>
-#include <set>
-#include <unordered_map>
-#include <stack>
-#include <queue>
-#include <map>
-#include <deque>
-#include <random>
-#include <cmath>
-#include <algorithm>
-#include <chrono>
 using namespace std;
 
 typedef unsigned long long ull;
@@ -42,10 +35,17 @@ ll lcd(ll a,ll b){return (a*(b/gcd(a,b)));}
  
 void solve(){
     
+ 
+  
+ 
   
 }
 int main()
 {
+    ll t;
+    cin>>t;
     
+    forl(t)
+     solve();
   
 }
