@@ -10,6 +10,7 @@ using namespace std;
 #define Code ios_base::sync_with_stdio(false);
 #define By cin.tie(NULL);
 #define Shanto cout.tie(NULL);
+#define fraction() cout.unsetf(ios::floatfield); cout.precision(10); cout.setf(ios::fixed,ios::floatfield);
 
 //Aliases
 using ll= long long;
