@@ -56,7 +56,7 @@ ll binaryToDecimal(string n){string num = n;ll dec_value = 0;int base = 1;int le
   
 
 //Sorting
-bool cmps( pair<ll,ll> &a, pair<ll,ll> &b){return (a.second < b.second);}
+bool cmpa( pair<ll,ll> &a, pair<ll,ll> &b){return (a.second < b.second);}
 bool cmpd( pair<ll,ll> &a, pair<ll,ll> &b){return (a.second > b.second);}
  
 
