@@ -34,6 +34,7 @@ typedef map<ll,ll> mll;
 // Macros
 #define ff first
 #define ss second
+#define endl "\n"
 #define pb emplace_back
 #define mp(x,y) make_pair((x),(y))
 #define yes cout<<"YES\n";
