@@ -21,6 +21,14 @@ const lld pi= 3.1415926535897932384626433;
 const ll INF= LONG_LONG_MAX;
 const ll mod=1e9+7;
 
+//TypeDEf
+typedef pair<ll, ll> pll;
+typedef vector<ll> vll;
+typedef vector<pll> vpll;
+typedef vector<string> vs;
+typedef unordered_map<ll,ll> umll;
+typedef map<ll,ll> mll;
+
 
 
 // Macros
