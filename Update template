@@ -42,6 +42,8 @@ typedef map<ll,ll> mll;
 #define no cout<<"NO\n";
 #define pimp cout<<"IMPOSSIBLE\n";
 #define mid(s,e) ((s+e)/2)
+#define mem(a,b) memset(a,b,sizeof(a))
+#define sqr(a) ((a)*(a))
 #define forl(n) for(long long i=0;i<(n);i++)
 
 
